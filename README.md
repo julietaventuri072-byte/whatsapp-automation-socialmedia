@@ -1,3 +1,5 @@
+# 🚀 Automatización de Envíos de Contenido vía WhatsApp
+
 Este proyecto es una herramienta desarrollada en **Python** diseñada para optimizar la comunicación entre el Community Manager y sus clientes. Permite automatizar el envío de artes, videos y reportes mensuales de forma eficiente y profesional.
 
 ## 🎯 Objetivo
